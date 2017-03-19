@@ -7,11 +7,13 @@
 
 # 简介
 
+
+
   omniFocus 2是一款时间任务管理工具，通过创建事项，编辑事项内容和设定时间等功能达到多任务管理的目的，支持Mac和iOS。支持事项分级、归类的功能，同时具有多维的时间设置能表达出事项的轻重缓急。
 
 ## 功能介绍
 
-![N|Solid](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489665966539&di=edaa86364ca532503a76107cb0c48991&imgtype=0&src=http%3A%2F%2Fs14.sinaimg.cn%2Fbmiddle%2F001fO3y5gy6EReWn9jn3d%26690)
+![](http://omx1ot7hy.bkt.clouddn.com/additem.jpeg)
 
 
 ### 1.Inbox
@@ -19,9 +21,13 @@
 在这里，你可以输入事项。包括事项的标题，和平行的三栏菜单。
 
 >info、note、attachments
+>
+>![](http://omx1ot7hy.bkt.clouddn.com/omnifocus/context.jpg)
+>
+>
+>
+>[](http://omx1ot7hy.bkt.clouddn.com/context-omnifocus.jpeg)
 
-
-![N|Solid](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489666093783&di=30854c6d660b46e5258a3db1c554fcd3&imgtype=0&src=http%3A%2F%2Fcdn8.staztic.com%2Fapp%2Fi%2F3100%2F3100391%2Fomnifocus-2-for-iphone-1-2-s-386x470.jpg)
 #### a、Info
 
 在info中输入所属项目、上下文和时间设置，能将事项快速地归类。
