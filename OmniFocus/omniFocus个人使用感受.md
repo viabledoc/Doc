@@ -3,30 +3,28 @@
 ![N|Solid](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3261835860,3014934844&fm=23&gp=0.jpg)
 
 # 为什么要用omniFocus
-处于信息量爆炸的时代中，经常会身陷于事务一大堆缠身的境况中。好像每件事都很重要、都很紧急。做一件事的时候突然想起来另一件事还没做，随手记在本子上，过几分钟又忘了。只用传统工具和大脑梳理事情除了影响效率之外，人可能还会陷入焦虑情绪。所以你需要一款功能强大的时间任务管理程序来帮你理清思绪，提高效率，拥抱精英生活。
+处于信息量爆炸的时代中，经常会身陷于事务一大堆缠身的境况中。好像每件事都很重要、都很紧急。做一件事的时候突然想起来另一件事还没做，随手记在本子上，过几分钟又忘了。而且，现代人的生活场景特别丰富，除了生活、工作以外还有个人发展。只用传统工具和大脑梳理事情除了影响效率之外，人可能还会陷入焦虑情绪。所以你需要一款功能强大的时间任务管理程序来帮你理清思绪，提高效率，拥抱精英生活。
 
 # 简介
-
-
 
   omniFocus 2是一款时间任务管理工具，通过创建事项，编辑事项内容和设定时间等功能达到多任务管理的目的，支持Mac和iOS。支持事项分级、归类的功能，同时具有多维的时间设置能表达出事项的轻重缓急。
 
 ## 功能介绍
 
-![](http://omx1ot7hy.bkt.clouddn.com/additem.jpeg)
+主界面为下图所示，forecast是根据时间设置来直观的显示这几天的任务数量和分布，将繁忙程度直观得表现了出来。
 
+下面会一一介绍各个图标代表的意义和作用。
 
+![N|Solid](http://omx1ot7hy.bkt.clouddn.com/omnifocus/elements.jpg)
 ### 1.Inbox
+![N|Solid](http://omx1ot7hy.bkt.clouddn.com/omnifocus/additem.jpeg)
 
-在这里，你可以输入事项。包括事项的标题，和平行的三栏菜单。
+点开这里，将会跳入输入事项的界面。你可以输入事项。包括事项的标题，和平行的三栏菜单。
 
 >info、note、attachments
->
->![](http://omx1ot7hy.bkt.clouddn.com/omnifocus/context.jpg)
->
->
->
->[](http://omx1ot7hy.bkt.clouddn.com/context-omnifocus.jpeg)
+
+![N|Solid](http://omx1ot7hy.bkt.clouddn.com/omnifocus/unsaveditem.jpg)
+
 
 #### a、Info
 
@@ -36,6 +34,14 @@
 >estimated duration、defer until、due、repeat
 
 estimated duration中可以填写预计完成一件事的耗时，加强时间规观念。defer until的设置记录了事项开始的时间，使事务需要被处理时才出现，让用户能专注于当下的事情。到期设置能让用户知道哪些事需要优先处理。重复功能的存在能使常规事务不需要重复设置。从这几个选项中能有效地区分表达事项的轻重缓急。
+
+![N|Solid](http://omx1ot7hy.bkt.clouddn.com/omnifocus/saveditem.jpg)
+
+
+
+已经保存的事项可以被移动到另一个事项下作为子事项，这个分级功能能让事项尽可能的简洁直观。
+
+已经保存的事项也可以转换成一个项目，项目功能会在后续内容中提到。
 
 #### b、Note&Attachments
 
@@ -49,6 +55,9 @@ estimated duration中可以填写预计完成一件事的耗时，加强时间�
 
 omniFocus中可将事项向下一级作为子集被归在一个project里。在工作场景中是一个实用的功能，不同时期的项目中的细节事务可以被归类在一个项目中。这样能大量精简事务的初始界面，避免了事务过多一字排开展示后仍然让用户一头雾水的情况。
 
+示例图
+
+![N|Solid](http://omx1ot7hy.bkt.clouddn.com/omnifocus/project.jpg)
 每一个事项作为一个item级别可以转换成一个project，而每一个item可以被移动到另一个item之下作为下一级内容。并且在omnifocus中可以无限层级，方便整理各个项目中的小任务。
 
 >project>item>moved item
@@ -69,6 +78,11 @@ omniFocus中可将事项向下一级作为子集被归在一个project里。在�
 
 >生活杂事、修身养性、娱乐疯狂
 
+
+
+我个人的上下文标题就比较符合我个人的风格－神经。以供参考。
+
+![N|Solid](http://omx1ot7hy.bkt.clouddn.com/omnifocus/context.jpg)
 
 ## 总结
 
